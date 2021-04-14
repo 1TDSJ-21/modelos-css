@@ -1,0 +1,11 @@
+/*
+    GRADIANTE COM CSS
+*/
+
+#grad1 {
+    height: 150px;
+    width: 200px;
+    background-color: red;
+    /* For browsers that do not support gradients */
+    background-image: radial-gradient(red, yellow, green);
+}
